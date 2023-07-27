@@ -1,5 +1,5 @@
 ---
-title: "Lab_Excercise 2"
+title: "Lab_Exercise 2"
 author: "Haider Zulfiqar"
 date: "November 9, 2022"
 output:
