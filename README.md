@@ -1,4 +1,4 @@
-# Bayesian-Analysis
+# Bayesian-Modeling
 This repository contains a collection of lab exercises focused on Bayesian analysis. Bayesian statistics is a powerful approach to inferential modeling that allows for uncertainty quantification and parameter estimation. The exercises in this repository cover various topics related to Bayesian analysis, including Markov Chain Monte Carlo (MCMC) methods, JAGS modeling, and posterior inference.
 
 Lab Exercise 1: Introduction to Bayesian Statistics  
